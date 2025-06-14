@@ -3,7 +3,7 @@
 
 //  const WEATHERAPI = ();
 
-const api = (`1b4c51c2893932f0be26f6db4ae44b6d`) //takes api
+const api = (`API NUMBER`) //takes api
 
  function WEATHERAPP () {
 
